@@ -63,7 +63,7 @@ Creating a modern alternative to traditional ban systems, inspired by SourceBans
 
 Check out the early development preview:
 
-[![CS2 Bans WIP Preview](https://img.youtube.com/vi/60GsfQvrps8/maxresdefault.jpg)](https://www.youtube.com/watch?v=60GsfQvrps8)
+[![CS2 Bans WIP Preview](https://img.youtube.com/vi/XwyVrpR0pcg/maxresdefault.jpg)](https://www.youtube.com/watch?v=XwyVrpR0pcg)
 
 *Note: This video shows work-in-progress features that may change before release.*
 *Track Progress*: Progress of the development here: [LINK TO THREAD ON CSS DISCORD](https://discord.com/channels/1160907911501991946/1373804177003909200)
